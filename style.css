@@ -1,0 +1,23 @@
+.corpo{
+background-color: blueviolet;
+color: hotpink;
+text-align: center;
+border: 11px;
+border-style: groove;
+border-color: black;
+}
+
+p{
+    color: rgb(255, 0, 140);
+    font-size: 23px;
+}
+
+#link{
+    color: orangered;
+    text-decoration: none;
+}
+
+#link:hover{
+    color: aquamarine;
+    font-size: 15px;
+}
